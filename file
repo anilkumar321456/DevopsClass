@@ -1,0 +1,10 @@
+git revert 
+git reset 
+git push
+git stash
+git pop
+git stash apply
+git status 
+git show
+git commit
+git log
